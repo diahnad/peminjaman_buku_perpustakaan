@@ -70,7 +70,7 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/diahnad/peminjaman_buku_perpustakaan.git
+git clone URL_REPOSITORY_KAMU
 ```
 
 Masuk ke folder project:
